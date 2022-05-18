@@ -22,16 +22,16 @@ Feel free to reach out if you would like to work on any projects. <br />
 
 ### 📫 Reach me at:
 
-[<img align="left" width="22px"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="padding: 5px;" />][twitter]
-[<img align="left" width="22px" padding='2px'
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
-style="padding: 5px;"/>][linkedin]
+<p align="left"><a href="https://www.linkedin.com/in/logicbypass/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LogicBypass" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <br />
 
 ## My skills 
 
 ![image](https://user-images.githubusercontent.com/62214984/157439896-f155a161-d06a-4166-973a-66c680604635.png)
+
+<b>My GitHub Progress</b>
+
+<a href="http://www.github.com/LogicBypass"><img src="https://github-readme-stats.vercel.app/api?username=LogicBypass&show_icons=true&show_icons=true" alt="LogicBypass's GitHub stats" /></a>
 
 <details>
   <summary>My TryHackMe Path</summary>
