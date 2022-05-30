@@ -135,3 +135,5 @@ Feel free to reach out if you would like to work on any projects. <br />
   
 </details>
 
+[twitter]: https://twitter.com/LogicBypass
+[linkedin]: https://www.linkedin.com/in/logicbypass
