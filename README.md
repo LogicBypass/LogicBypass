@@ -1,3 +1,6 @@
+<!-- markdownlint-disable-next-line -->
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=LogicBypass"/>
+
 ## Hi there, I'm Adrian - aka [Logic Bypass][linkedin]
 | 💚 Green-Hat |> 💜 Penetration Tester |> 🤍 Ethical Hacker | 
 
@@ -28,7 +31,9 @@ Feel free to reach out if you would like to work on any projects. <br />
 
 <b>My GitHub Progress</b>
 
-<a href="http://www.github.com/LogicBypass"><img src="https://github-readme-stats.vercel.app/api?username=LogicBypass&show_icons=true" alt="LogicBypass's GitHub stats" /></a>
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LogicBypass&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicBypass&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 <details>
   <summary>My TryHackMe Path</summary>
