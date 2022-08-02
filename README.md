@@ -5,10 +5,7 @@
 I'm an IT enthusiast passionate about cybersecurity field.<br />
 I am always on the lookout for mentors, collaborations as a cybersecurity intern, and new projects to work on.<br />
 Feel free to reach out if you would like to work on any projects. <br />
-
-<div align="right">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="160px" /> 
-</div>
+<br />
 
 - 👨‍💻 I’m working on:
 	- Building free beginner pathways how to get into the cybersecurity field.
@@ -137,3 +134,7 @@ Feel free to reach out if you would like to work on any projects. <br />
 
 [twitter]: https://twitter.com/LogicBypass
 [linkedin]: https://www.linkedin.com/in/logicbypass
+
+<br/>
+
+![footer-bg-landscape_d41d8cd98f00b204e9800998ecf8427e](https://user-images.githubusercontent.com/62214984/182363142-1a37da4b-115d-401d-8565-2aa26e01f416.png)
