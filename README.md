@@ -1,7 +1,9 @@
+# Hi there!
 <!-- markdownlint-disable-next-line -->
-<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=LogicBypass"/>
+<p align="center"><img src="https://github-hero-readme.vercel.app/api?username=LogicBypass&linkedin=LogicBypass&twitter=LogicBypass" href="#"/>
+<br />
 
-## Hi there, I'm Adrian - aka [Logic Bypass][linkedin]
+Your Meta Hero in Cyberworld<br />
 | 💚 Green-Hat |> 💜 Penetration Tester |> 🤍 Ethical Hacker | 
 
 <br />
