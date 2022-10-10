@@ -28,8 +28,10 @@ Feel free to reach out if you would like to work on any projects. <br />
 <br />
 
 ## My skills 
+[![](https://user-images.githubusercontent.com/62214984/194853206-f9b04f38-870a-47e0-8d6f-d3b58d94ef2c.png)](https://www.credly.com/badges/1a0963cb-94c3-4eee-9af0-8d5d61e71d80/public_url)
+[![](https://user-images.githubusercontent.com/62214984/194854401-ef379d20-a0cd-420e-beb7-e2a019ea2d89.png)](https://www.credly.com/badges/984ef2df-483f-4959-a2b7-fd9da6bc2fc6/public_url)<br/>
 
-![image](https://user-images.githubusercontent.com/62214984/157439896-f155a161-d06a-4166-973a-66c680604635.png)
+![](https://user-images.githubusercontent.com/62214984/157439896-f155a161-d06a-4166-973a-66c680604635.png)
 
 <b>My GitHub Progress</b>
 
