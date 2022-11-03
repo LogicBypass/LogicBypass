@@ -33,6 +33,11 @@ Feel free to reach out if you would like to work on any projects. <br />
 
 ![](https://user-images.githubusercontent.com/62214984/157439896-f155a161-d06a-4166-973a-66c680604635.png)
 
+<b>My technical expertise</b>
+- Microsoft Defender for Cloud - Basic 
+- Microsoft 365 Defender - Basic
+- ELK Stack - Basic
+<br/>
 <b>My GitHub Progress</b>
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LogicBypass&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicBypass&layout=compact&theme=buefy&hide_border=true" /></a> |
