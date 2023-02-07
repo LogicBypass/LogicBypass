@@ -13,8 +13,8 @@ Feel free to reach out if you would like to work on any projects. <br />
 <br />
 
 - 👨‍💻 I’m working on:
-	- Building free beginner pathways how to get into the cybersecurity field.
-	- Personal security technologies
+	- Developing personal security technologies and applications:
+		- [StealthSense: The Ultimate Open-Source PC Surveillance Solution](https://github.com/LogicBypass/StealthSense)
 - 📚 I’m learning about Offensive and Defensive security.
 - 👯 I’m looking to collaborate on Cybersecurity projects, CTFs, Research, and much more.
 - 🤔 I’m looking for help with ...
