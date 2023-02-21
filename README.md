@@ -38,6 +38,14 @@ Feel free to reach out if you would like to work on any projects. <br />
 - Microsoft 365 Defender - Basic
 - ELK Stack - Basic
 <br/>
+
+**Useful Self-hosted Services:**
+- Proxmox - Hipervisor
+- Open ELK / Wazuh - SIEM
+- REMnux + FLAREVM - Malware analisys
+- eve-ng - Network topology and virtualization platform.
+<br/>
+
 <b>My GitHub Progress</b>
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LogicBypass&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="My github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LogicBypass&layout=compact&theme=buefy&hide_border=true" /></a> |
