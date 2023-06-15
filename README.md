@@ -4,7 +4,7 @@
 <br />
 
 Your Meta Hero in Cyberworld<br />
-| 💚 Green-Hat |> 💜 Penetration Tester |> 🤍 Ethical Hacker | 
+| 💚 Bug Bounty |> 💜 Cybersecurity Engineer |> 🤍 CISO | 
 
 <br />
 I'm an IT enthusiast passionate about cybersecurity field.<br />
